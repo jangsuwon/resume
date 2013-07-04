@@ -24,8 +24,8 @@ sw.jang@ifunfactory.com
 
     CTO, SW 역량강화센터, SW인프라팀, 연구원, 2011.1 - 2012.12
 
-    -   전사 이슈 트레킹(Jira), 협업(Confluence, Wiki의 진보된 형태), Subversion/Git Repository 구축, 관리 및 모니터링
     -   Git Repository, 이슈 트레킹 시스템(Jira) 연동 기능 개발(서버 및 Web 인터페이스)
+    -   전사 이슈 트레킹(Jira), 협업(Confluence, Wiki의 진보된 형태), Subversion/Git Repository 구축, 관리 및 모니터링
     -   Android 데이터베이스 Cursor Leak 오류 탐지기 개발
     -   Java/Android 오류 탐지 사례 및 해결 가이드
 
@@ -41,7 +41,7 @@ sw.jang@ifunfactory.com
 
     -   여름 인턴, Java 통계 모듈 및 관련 Eclipse Plugin 개발
 
-*   Mobile Springnote Prototype 개발, 2009.3 - 2009.5
+*   Mobile Springnote Prototype 개발, 2009.3 - 2009.6
 
     -   학부 프로젝트, iOS 노트 앱 웹 API 클라이언트 개발
 
